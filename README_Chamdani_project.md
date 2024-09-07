@@ -80,10 +80,10 @@ For further questions or assistance, you can reach out to:
 
 - **Name**: Moch. Chamdani Mustaqim
 - **Phone**: +6285655746306
-- **GitHub**: [https://github.com/chamisfum](https://github.com/chamisfum)
-- **LinkedIn**: [https://www.linkedin.com/in/moch-chamdani-mustaqim/](https://www.linkedin.com/in/moch-chamdani-mustaqim/)
+- **GitHub**: [chamisfum](https://github.com/chamisfum)
+- **LinkedIn**: [moch-chamdani-mustaqim](https://www.linkedin.com/in/moch-chamdani-mustaqim/)
 - **CV**: [View CV](https://drive.google.com/file/d/1qAy49ysZajfbJZ7SraTpG8rYPNsvKa8D/view?usp=sharing)
-- **Assignment Project**: [View Assignment Project](https://drive.google.com/file/d/1qAy49ysZajfbJZ7SraTpG8rYPNsvKa8D/view?usp=sharing)
+- **Assignment Project**: [View Assignment Project](https://github.com/chamisfum/vehicle_detection_yolov5)
 
 ## License
 
