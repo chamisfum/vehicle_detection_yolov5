@@ -1,4 +1,4 @@
-# Vehicle Detection with YOLOv5 by Moch. Chamdani
+# Vehicle Detection with YOLOv5
 
 Welcome to the **Vehicle Detection** project! This project uses YOLOv5 to detect various types of vehicles in videos. YOLOv5 is a state-of-the-art object detection model that provides high accuracy and speed.
 
@@ -73,6 +73,17 @@ This command will process `video_1440p.mp4`, detect vehicles (cars, buses, and t
 
 - **Error: 'ModuleNotFoundError'** - Ensure all dependencies are installed using `pip install -r requirements.txt`.
 - **No detections** - Check if the input video is in the correct format and resolution.
+
+## Contact Information
+
+For further questions or assistance, you can reach out to:
+
+- **Name**: Moch. Chamdani Mustaqim
+- **Phone**: +6285655746306
+- **GitHub**: [https://github.com/chamisfum](https://github.com/chamisfum)
+- **LinkedIn**: [https://www.linkedin.com/in/moch-chamdani-mustaqim/](https://www.linkedin.com/in/moch-chamdani-mustaqim/)
+- **CV**: [View CV](https://drive.google.com/file/d/1qAy49ysZajfbJZ7SraTpG8rYPNsvKa8D/view?usp=sharing)
+- **Assignment Project**: [View Assignment Project](https://drive.google.com/file/d/1qAy49ysZajfbJZ7SraTpG8rYPNsvKa8D/view?usp=sharing)
 
 ## License
 
